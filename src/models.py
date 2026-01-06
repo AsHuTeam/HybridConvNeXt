@@ -211,8 +211,3 @@ MODEL_REGISTRY = {
     'Study8_DualBranch_NoAttn': DualBranch_NoAttention,
 }
 
-print(f"\n📊 Total studies: {len(MODEL_REGISTRY)}")
-print(f"\n⭐ PROPOSED MODELS:")
-print(f"   Study4: CBAM + SE (Complementary channel attentions)")
-print(f"   Study6: Channel + Spatial (Explicit What/Where separation) ⭐⭐ BEST")
-print(f"   Study7: Self-Attention + CBAM (Global + Local)")
