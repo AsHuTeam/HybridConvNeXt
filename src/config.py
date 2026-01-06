@@ -4,7 +4,7 @@ import torch
 # ====================== CONFIGURATION ======================
 class Config:
     # Data
-    data_root = r"Path\dataset"
+    data_root = r"Path To \dataset"
     img_size = 224
     train_ratio, val_ratio, test_ratio = 0.6, 0.2, 0.2
 
