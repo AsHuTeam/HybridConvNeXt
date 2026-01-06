@@ -1,4 +1,4 @@
-# Dual-Attention Ablation Study (Multi-file GitHub Version)
+# Dual-Attention Ablation Study
 
 This repository contains a complete ablation study for dual-attention ConvNeXt-based architectures.
 
